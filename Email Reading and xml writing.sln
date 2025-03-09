@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email Reading and xml writing", "Email Reading and xml writing\Email Reading and xml writing.csproj", "{55E25DEA-A077-4785-9144-C65D57BC0038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E25DEA-A077-4785-9144-C65D57BC0038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E25DEA-A077-4785-9144-C65D57BC0038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E25DEA-A077-4785-9144-C65D57BC0038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E25DEA-A077-4785-9144-C65D57BC0038}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {661FA871-1ACD-47E3-88B6-EDF3069E1D35}
+	EndGlobalSection
+EndGlobal
